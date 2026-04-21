@@ -7,11 +7,11 @@
   "background_color": "#f8f9fa",
   "theme_color": "#1a73e8",
   "icons": [
-    {
-      "src": "https://raw.githubusercontent.com/lassebot/weather-manifest/main/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
+  {
+    "src": "https://raw.githubusercontent.com/lassebot/weather-manifest/main/icon.svg",
+    "sizes": "any",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }
+]
 }

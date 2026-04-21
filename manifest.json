@@ -1,0 +1,17 @@
+{
+  "name": "Wetter in Bremen",
+  "short_name": "Wetter HB",
+  "description": "Moderne Wetter-App für Bremen",
+  "start_url": "https://ais-pre-pergwjixgihzkwi36irl5l-767999198979.europe-west2.run.app/",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "Wetter in Bremen",
-  "short_name": "Wetter HB",
+  "short_name": "Wetter",
   "description": "Moderne Wetter-App für Bremen",
   "start_url": "https://ais-pre-pergwjixgihzkwi36irl5l-767999198979.europe-west2.run.app/",
   "display": "standalone",

@@ -8,13 +8,13 @@
   "theme_color": "#1a73e8",
 "icons": [
   {
-    "src": "https://raw.githubusercontent.com/lassebot/weather-manifest/main/icon.png",
+    "src": "https://ais-pre-pergwjixgihzkwi36irl5l-767999198979.europe-west2.run.app/icon.png",
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any"
   },
   {
-    "src": "https://raw.githubusercontent.com/lassebot/weather-manifest/main/icon.svg",
+    "src": "https://ais-pre-pergwjixgihzkwi36irl5l-767999198979.europe-west2.run.app/icon.svg",
     "sizes": "any",
     "type": "image/svg+xml",
     "purpose": "maskable"

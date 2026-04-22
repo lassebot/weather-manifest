@@ -11,7 +11,7 @@
     "src": "https://raw.githubusercontent.com/lassebot/weather-manifest/main/icon.png",
     "sizes": "512x512",
     "type": "image/png",
-    "purpose": "any"
+    "purpose": "any maskable"
   }
 ]
 }

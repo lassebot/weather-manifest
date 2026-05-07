@@ -1,7 +1,7 @@
 {
-  "name": "Wetter in Bremen",
-  "short_name": "Wetter",
-  "description": "Moderne Wetter-App für Bremen",
+  "name": "wxbre",
+  "short_name": "wxbre",
+  "description": "wxbre",
   "start_url": "https://www.wxbre.de",
   "display": "standalone",
   "scope": "/",
